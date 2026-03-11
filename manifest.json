@@ -1,0 +1,26 @@
+{
+  "name": "Life Wisdom",
+  "short_name": "Wisdom",
+  "description": "Deep life lessons and philosophy for a conscious, joyful life.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#2c5f4a",
+  "background_color": "#f7f4ef",
+  "categories": ["lifestyle", "education", "health"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
