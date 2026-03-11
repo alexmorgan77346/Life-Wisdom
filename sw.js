@@ -1,4 +1,4 @@
-const CACHE_NAME = 'life-wisdom-v3';
+const CACHE_NAME = 'life-wisdom-v4';
 
 // Derive base from SW location — works regardless of which folder is served
 const BASE = self.location.href.replace('sw.js', '');
